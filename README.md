@@ -8,3 +8,5 @@ Major libraries used include the arduino PID library, MPU tockn, and Servo.
 Altitude and position hold modes coming soon.
 
 You'll need to edit PID gains while using DroneBud. There are many online tutorials surrounding the subject, but make sure to find one that involves tuning from scratch.
+
+Created by Christopher Hughes and Louis Primeau
